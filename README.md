@@ -17,7 +17,7 @@ The goal was to create a tool that translates written narratives into structured
 ✅ Real-Time Collaboration – Teams can refine storyboards interactively.  
 ✅ Export Options – Save in image, PDF, or animated formats for easy sharing.  
 
-Why I Created This  
+Why I Created This?...
 Storyboarding can be time-consuming and tedious, often requiring manual sketching or expensive software. By leveraging AI automation, this tool accelerates workflow,  
 enhances storytelling precision, and makes professional storyboarding accessible to creators of all levels.  
 
